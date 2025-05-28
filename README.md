@@ -40,32 +40,10 @@ EmployeeCompensationApp/
 
 ---
 
-## How to Run
-
-### 1. Setup SQL Server
-
-- Create a database (e.g., `EmployeeDB`)
-- Run `create_tables.sql`, `insert_sample_data.sql`, and `stored_procedures.sql`
-
-### 2. Update Connection String
-
-Edit `DatabaseHelper.cs`:
-```csharp
-private readonly string connectionString = "Server=YOUR_SERVER;Database=YOUR_DB;Trusted_Connection=True;TrustServerCertificate=True;";
-```
-
-### 3. Open and Run the App
-
-- Open `EmployeeCompensationApp.sln` in Visual Studio 2022+
-- Build the solution
-- Run the application
-
----
 
 ## Deliverables
 
 - Fully working desktop app
 - SQL scripts for database setup
 - Filtering, exporting, and compensation simulation features
-- Ready-to-submit GitHub repository structure
 
