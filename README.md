@@ -1,11 +1,11 @@
 
-# 💼 Employee Compensation Forecasting App (.NET 8.0 - Windows Forms)
+# Employee Compensation Forecasting App (.NET 8.0 - Windows Forms)
 
 This is a traditional C# desktop application built using .NET 8.0 and Windows Forms. It is a Proof of Concept (PoC) for forecasting and analyzing employee compensation, built for Spaulding Ridge’s technical assignment.
 
 ---
 
-## 🚀 Features Implemented
+## Features Implemented
 
 - Filter employees by **Role**, **Location**, and **Active/Inactive** status
 - View employee data in a **DataGridView**
@@ -14,7 +14,7 @@ This is a traditional C# desktop application built using .NET 8.0 and Windows Fo
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - .NET 8.0 (Windows Forms)
 - C#
@@ -24,7 +24,7 @@ This is a traditional C# desktop application built using .NET 8.0 and Windows Fo
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 EmployeeCompensationApp/
@@ -40,7 +40,7 @@ EmployeeCompensationApp/
 
 ---
 
-## 🧪 How to Run
+## How to Run
 
 ### 1. Setup SQL Server
 
@@ -62,19 +62,10 @@ private readonly string connectionString = "Server=YOUR_SERVER;Database=YOUR_DB;
 
 ---
 
-## 📤 Deliverables
+## Deliverables
 
 - Fully working desktop app
 - SQL scripts for database setup
 - Filtering, exporting, and compensation simulation features
 - Ready-to-submit GitHub repository structure
 
----
-
-## 📬 Submission
-
-Email your GitHub repo link to:
-- pbhatia@spauldingridge.com
-- pkumari@spauldingridge.com
-
-**Deadline:** May 18, 2025, 7:00 PM IST
